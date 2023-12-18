@@ -1,0 +1,9 @@
+@model int
+@for (int i = 0; i < Model; i++)
+{
+    @Html.Raw("&#x2605;")
+}
+@for (int i = 0; i < 5 - Model; i++)
+{
+    @Html.Raw("&#x2606;")
+}

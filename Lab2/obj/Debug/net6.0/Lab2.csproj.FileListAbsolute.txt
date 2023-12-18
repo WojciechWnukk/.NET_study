@@ -1,0 +1,15 @@
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\bin\Debug\net6.0\Lab2.exe
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\bin\Debug\net6.0\Lab2.deps.json
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\bin\Debug\net6.0\Lab2.dll
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\bin\Debug\net6.0\Lab2.pdb
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.dll
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.pdb
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+C:\Users\WojciechWnuk\Desktop\studia_7_semestr\Architektura i programowanie w .NET\Lab2\obj\Debug\net6.0\ref\Lab2.dll

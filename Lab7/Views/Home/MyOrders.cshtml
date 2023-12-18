@@ -1,0 +1,57 @@
+@model IEnumerable<Lab7.Models.Invoice>
+
+@{
+    ViewData["Title"] = "MyOrders";
+}
+
+<h1>MyOrders</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Invoice Id
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InvoiceDate)
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total) Price
+            </th>
+            <th>
+
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="OrderDetails" asp-controller="Home"
+                        asp-route-id="@item.InvoiceId">@Html.DisplayFor(modelItem => item.InvoiceId)</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShortInvoiceDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BillingAddress) @Html.DisplayFor(modelItem => item.BillingCity)
+                    @Html.DisplayFor(modelItem => item.BillingState) @Html.DisplayFor(modelItem => item.BillingCountry)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Total)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-controller="Invoices" asp-route-id="@item.InvoiceId">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
